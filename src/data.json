@@ -1,0 +1,4 @@
+{
+  "source": "../ifc/VD3.ifc",
+  "output": "../converted/VD3.xkt"
+}
