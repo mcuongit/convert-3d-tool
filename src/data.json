@@ -1,4 +1,4 @@
 {
-  "source": "../ifc/VD3.ifc",
-  "output": "../converted/VD3.xkt"
+  "source": "../ifc/Snowdon Towers Sample Electrical(2x3CV20).ifc",
+  "output": "../converted/Electrical.xkt"
 }
